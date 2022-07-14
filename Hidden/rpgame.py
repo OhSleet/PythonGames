@@ -48,12 +48,24 @@ if answer.lower().strip() == "yes":
                                 if answer == "confront":
                                     answer = input("You put the guy to the floor taking back your backpack but also claiming a gun from the person, you make a run downstairs but are confronted by two others, do you shoot them? (yes/no) : ")
 
-
-
-
-
-
-
+                                
+                            
+                                
+                                # //.................................................................................................................................................
+                                # //.MMMMMM...MMMMMM...OOOOOOO.....RRRRRRRRRR...EEEEEEEEEEE......TTTTTTTTTTO..OOOOOOO............CCCCCCC......OOOOOOO....MMMMMM...MMMMMMEEEEEEEEEEE..
+                                # //.MMMMMM...MMMMMM..OOOOOOOOOO...RRRRRRRRRRR..EEEEEEEEEEE......TTTTTTTTTTO.OOOOOOOOOO.........CCCCCCCCC....OOOOOOOOOO..MMMMMM...MMMMMMEEEEEEEEEEE..
+                                # //.MMMMMM...MMMMMM.OOOOOOOOOOOO..RRRRRRRRRRR..EEEEEEEEEEE......TTTTTTTTTTOOOOOOOOOOOOO.......CCCCCCCCCCC..OOOOOOOOOOOO.MMMMMM..MMMMMMMEEEEEEEEEEE..
+                                # //.MMMMMMM.MMMMMMM.OOOOO..OOOOO..RRRR...RRRRR.EEEE................TTTT...OOOOO...OOOOO......CCCCC...CCCC.OOOOO...OOOOO.MMMMMMM.MMMMMMMEEEE.........
+                                # //.MMMMMMM.MMMMMMMOOOOO....OOOOO.RRRR...RRRRR.EEEE................TTTT...OOOO.....OOOOO.....CCCC....CCC..OOOO.....OOOOOMMMMMMM.MMMMMMMEEEE.........
+                                # //.MMMMMMM.MMMMMMMOOOO......OOOO.RRRRRRRRRRR..EEEEEEEEEE..........TTTT...OOOO......OOOO.....CCCC.........OOOO......OOOOMMMMMMM.MMMMMMMEEEEEEEEEEE..
+                                # //.MMMMMMMMMMMMMMMOOOO......OOOO.RRRRRRRRRRR..EEEEEEEEEE..........TTTT...OOOO......OOOO.....CCCC.........OOOO......OOOOMMMMMMMMMMMMMMMEEEEEEEEEEE..
+                                # //.MMMMMMMMMMMMMMMOOOO......OOOO.RRRRRRRR.....EEEEEEEEEE..........TTTT...OOOO......OOOO.....CCCC.........OOOO......OOOOMMMMMMMMMMMMMMMEEEEEEEEEEE..
+                                # //.MMMMMMMMMMMMMMMOOOOO....OOOOO.RRRR.RRRR....EEEE................TTTT...OOOO.....OOOOO.....CCCC....CCC..OOOO.....OOOOOMMMMMMMMMM.MMMMEEEE.........
+                                # //.MMMM.MMMMM.MMMM.OOOOO..OOOOO..RRRR..RRRR...EEEE................TTTT...OOOOOO..OOOOO......CCCCC...CCCCCOOOOOO..OOOOO.MMMMMMMMMM.MMMMEEEE.........
+                                # //.MMMM.MMMMM.MMMM.OOOOOOOOOOOO..RRRR..RRRRR..EEEEEEEEEEE.........TTTT....OOOOOOOOOOOO.......CCCCCCCCCCC..OOOOOOOOOOOO.MMMM.MMMMM.MMMMEEEEEEEEEEE..
+                                # //.MMMM.MMMMM.MMMM..OOOOOOOOOO...RRRR...RRRRR.EEEEEEEEEEE.........TTTT.....OOOOOOOOOO.........CCCCCCCCC....OOOOOOOOOO..MMMM.MMMMM.MMMMEEEEEEEEEEE..
+                                # //.MMMM.MMMMM.MMMM....OOOOOO.....RRRR....RRRR.EEEEEEEEEEE.........TTTT......OOOOOOO............CCCCCCC......OOOOOOO....MMMM.MMMM..MMMMEEEEEEEEEEE..
+                                # //.................................................................................................................................................
 
 
 
