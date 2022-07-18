@@ -20,12 +20,11 @@ def slow_text(words):
     time.sleep(1)
 cols, rows = shutil.get_terminal_size()
 print(Fore.YELLOW +"")
-slow_text("___                                           __                  "          .center(cols))
-slow_text("\_ |__    ____ _______  ______  ____ _______ |  | __  ____ _______"           .center(cols))
-slow_text("| __ \ _/ __ \/_  __ \/  ___/_/ __ \/_  __ \|  |/ /_/ __ \/_  __ \ "            .center(cols))
-slow_text("| \_\ \/  ___/ |  | \/\___ \ \  ___/ |  | \/|    < \  ___/ |  | \/ "          .center(cols))
-slow_text("|___  / \___  >|__|  /____  > \___  >|__|   |__|_ \ \___  >|__|  "       .center(cols))
-slow_text("\/      \/            \/      \/             \/     \/     \/ "         .center(cols))
+slow_text(" ____  _____ ____  ____  _____ ____  _  _______ ____  ".center(cols))
+slow_text("| __ )| ____|  _ \/ ___|| ____|  _ \| |/ / ____|  _ \ ".center(cols))
+slow_text("|  _ \|  _| | |_) \___ \|  _| | |_) | ' /|  _| | |_) |".center(cols))
+slow_text("| |_) | |___|  _ < ___) | |___|  _ <| . \| |___|  _ < ".center(cols))
+slow_text(" |____/|_____|_| \_\____/|_____|_| \_\_|\_\_____|_| \_\ ".center(cols))
 
 
 
