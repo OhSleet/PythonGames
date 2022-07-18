@@ -185,7 +185,15 @@ while True:
                                     print(Fore.YELLOW +"")
                                     slow_text("Congratulations you killed the Goblin Leader ".center(cols))
                                     slow_text("you have completed the game!".center(cols))
+                                    slow_text(" ______________________________________________________".center(cols))
+                                    slow_text("   _____          __  __ ______    ______      ________ _____  ".center(cols))
+                                    slow_text("  / ____|   /\   |  \/  |  ____|  / __ \ \    / /  ____|  __ \ ".center(cols))
+                                    slow_text(" | |  __   /  \  | \  / | |__    | |  | \ \  / /| |__  | |__) |".center(cols))
+                                    slow_text(" | | |_ | / /\ \ | |\/| |  __|   | |  | |\ \/ / |  __| |  _  / ".center(cols))
+                                    slow_text(" | |__| |/ ____ \| |  | | |____  | |__| | \  /  | |____| | \ \ ".center(cols))
+                                    slow_text("  \_____/_/    \_\_|  |_|______|  \____/   \/   |______|_|  \_\ ".center(cols))
                                     print(" ______________________________________________________".center(cols))
+                                    sys.exit()
                         
                             elif answer == "r":
                                     print(Fore.GREEN +"")
